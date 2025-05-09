@@ -1,0 +1,13 @@
+# 모든 동영상 파일 무시
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# 모든 이미지 파일 무시
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
